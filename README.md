@@ -9,7 +9,7 @@ Kokoro TTS Simple Gradio UI is a local Gradio web app that converts custom text 
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/kokoro-tts-simple-gradio-ui.git
+git clone https://github.com/your-username/kokoro-tts-simple-gradio-ui.git](https://github.com/jdyson-alt4code/TTS-Kokoro-Gradio-Script.git
 cd kokoro-tts-simple-gradio-ui
 ```
 
